@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Oct 03 22:42:55 UTC 2026","Sat Oct 03 22:42:55 UTC 2026","368","","test_petstore","TestPetstoreAPI","","","Успешное получение питомца по ID",""
+"passed","Sat Oct 03 22:42:56 UTC 2026","Sat Oct 03 22:42:56 UTC 2026","360","","test_petstore","TestPetstoreAPI","","","Успешное обновление данных питомца",""
+"passed","Sat Oct 03 22:42:57 UTC 2026","Sat Oct 03 22:42:58 UTC 2026","1082","","test_petstore","TestPetstoreAPI","","","Успешное удаление питомца",""
+"passed","Sat Oct 03 22:42:58 UTC 2026","Sat Oct 03 22:42:58 UTC 2026","359","","test_petstore","TestPetstoreAPI","","","Получение несуществующего питомца (Негативный)",""
+"passed","Sat Oct 03 22:42:54 UTC 2026","Sat Oct 03 22:42:54 UTC 2026","396","","test_petstore","TestPetstoreAPI","","","Успешное создание питомца",""
